@@ -1,0 +1,6 @@
+numpy==1.23.5
+pandas
+scikit-learn
+yfinance
+matplotlib
+tensorflow==2.10
